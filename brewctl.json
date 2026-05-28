@@ -1,19 +1,19 @@
 {
-    "version": "0.2.6",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/syntheticinc/syntheticbrew-brewctl/releases/download/v0.2.6/brewctl_0.2.6_windows_amd64.zip",
+            "url": "https://github.com/syntheticinc/syntheticbrew-brewctl/releases/download/v0.3.0/brewctl_0.3.0_windows_amd64.zip",
             "bin": [
                 "brewctl.exe"
             ],
-            "hash": "33aa5364e4885c4a37b374ddde3b244e04c315a9f6a46969654ea22589be0c0a"
+            "hash": "2e6cce0881ed3d90c62cfb433f828d614cdb3a695d35eb8b74738e0dd919fd6c"
         },
         "arm64": {
-            "url": "https://github.com/syntheticinc/syntheticbrew-brewctl/releases/download/v0.2.6/brewctl_0.2.6_windows_arm64.zip",
+            "url": "https://github.com/syntheticinc/syntheticbrew-brewctl/releases/download/v0.3.0/brewctl_0.3.0_windows_arm64.zip",
             "bin": [
                 "brewctl.exe"
             ],
-            "hash": "32edeec9cc47c555117e70cc21ab0a50effa958912af949d0246b5f189634624"
+            "hash": "fbe58b328771e88d6d8f41fa23f4dc54bc59d11169347f62eb3b6cee78fe03c7"
         }
     },
     "homepage": "https://syntheticbrew.ai",
