@@ -2,7 +2,7 @@
 
 Scoop bucket for the public [`brewctl`](https://github.com/syntheticinc/syntheticbrew-brewctl) command-line client for [SyntheticBrew](https://syntheticbrew.ai/).
 
-`brewctl` manages resources in SyntheticBrew Cloud or a licensed SyntheticBrew Enterprise deployment. SyntheticBrew Cloud is operated by SyntheticBrew; Enterprise runs on customer-managed private infrastructure using proprietary release artifacts supplied to entitled customers.
+`brewctl` manages resources in SyntheticBrew Cloud or SyntheticBrew Enterprise. SyntheticBrew operates Cloud; your platform team operates Enterprise in on-premises or private infrastructure.
 
 ## Install
 
