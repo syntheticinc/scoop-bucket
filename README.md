@@ -1,8 +1,8 @@
 # scoop-bucket
 
-Scoop bucket for [SyntheticBrew](https://syntheticbrew.ai/) CLI tools (`brewctl`).
+Scoop bucket for the public [`brewctl`](https://github.com/syntheticinc/syntheticbrew-brewctl) command-line client for [SyntheticBrew](https://syntheticbrew.ai/).
 
-SyntheticBrew is open-source AI agent infrastructure: RAG, knowledge graphs, memory, tools, and orchestration with a no-code dashboard. Source code lives at [syntheticinc/syntheticbrew](https://github.com/syntheticinc/syntheticbrew).
+`brewctl` manages resources in SyntheticBrew Cloud or SyntheticBrew Enterprise. SyntheticBrew operates Cloud; your platform team operates Enterprise in on-premises or private infrastructure.
 
 ## Install
 
@@ -15,4 +15,4 @@ scoop install brewctl
 
 - Website: <https://syntheticbrew.ai/>
 - Documentation: <https://syntheticbrew.ai/docs/>
-- Main repository: <https://github.com/syntheticinc/syntheticbrew>
+- `brewctl` repository: <https://github.com/syntheticinc/syntheticbrew-brewctl>
